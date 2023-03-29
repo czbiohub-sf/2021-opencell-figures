@@ -1,7 +1,7 @@
 # 2021 OpenCell figures
 __October 2021__
 
-This repo contains the code and data used to generate the figures for the [2021 OpenCell preprint](https://www.biorxiv.org/content/10.1101/2021.03.29.437450v1). It was developed by [Keith Cheveralls](https://github.com/keithchev) and [Kibeom Kim](https://github.com/kkimatx) in the Leonetti group at the Chan Zuckerberg Biohub. 
+This repo contains the code and data used to generate the figures for the [2022 OpenCell paper](https://www.science.org/doi/10.1126/science.abi6983) (preprint [here](https://www.biorxiv.org/content/10.1101/2021.03.29.437450v2)). It was developed by [Keith Cheveralls](https://github.com/keithchev) and [Kibeom Kim](https://github.com/kkimatx) in the Leonetti group at the Chan Zuckerberg Biohub. 
 
 
 ## What's in this repo
